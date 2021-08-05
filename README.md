@@ -1,2 +1,2 @@
 # codewars.com
-Code Wars
+Code Wars Solultions
