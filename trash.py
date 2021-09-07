@@ -1,3 +1,7 @@
-from collections import Counter
-sample_str = 'aabbccdd'
-print(Counter(sample_str))
+x = 'hello world'
+
+def reverse_words(str):
+    return " ".join(str.split(" ")[::-1])
+
+
+print(reverse_words(x))
